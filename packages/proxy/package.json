@@ -33,7 +33,7 @@
     "koa2-http-proxy"
   ],
   "peerDependencies": {
-    "koa": ">=2.0.0"
+    "koa": ">=2.13.0"
   },
   "dependencies": {
     "http-proxy": ">=1.0.0"

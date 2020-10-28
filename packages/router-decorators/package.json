@@ -32,7 +32,7 @@
   ],
   "peerDependencies": {
     "@koa/router": ">=8.0.0",
-    "koa": ">=2.0.0"
+    "koa": ">=2.13.0"
   },
   "publishConfig": {
     "access": "public"
